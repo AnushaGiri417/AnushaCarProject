@@ -8,6 +8,7 @@ public class Main {
             audi.color = "Red";
             audi.door = "2";
         
+            test cases for color of the car
 
 
     }
